@@ -1,0 +1,6 @@
+langchain
+ollama
+langchain_ollama
+transformers
+streamlit
+torch
